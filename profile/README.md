@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, we are Binoocle</h1>
-<h3 align="center">An AI company focused on building solutions in NLP, computer vision</h3>
+<h3 align="center">An AI company focused on building solutions in NLP, computer vision and blockchain</h3>
 
 - 🔭 we are currently working on **Mirrooor**
 
