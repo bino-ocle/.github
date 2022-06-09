@@ -5,7 +5,7 @@
 
 - 🔭 we are currently working on **Koone**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <info@binoocle.com /h3>
 <p align="left">
 </p>
 
