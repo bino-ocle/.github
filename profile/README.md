@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, we are Binoocle</h1>
-<h3 align="center">An AI company focused on building solutions in NLP, computer vision and blockchain</h3>
+<h3 align="center"> AI startup building solutions in NLP, computer vision, with blockchain topping 🍒</h3>
 
-- 🔭 we are currently working on **Mirrooor**
+- 🔭 we are currently working on **Mirrooor**, NLP applied to mental health
 
-- 🔭 we are currently working on **Koone**
+- 🔭 we are currently working on **Koone**, computer vision for smart cities
 
-<h3 align="left">Connect with me: <info@binoocle.com /h3>
+<h3 align="left">How to reach us: </h3>
+
+drop us [a mail](mailto:info@binoocle.com)
+
 <p align="left">
 </p>
 
