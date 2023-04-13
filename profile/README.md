@@ -3,7 +3,7 @@
 
 - 🔭 we are currently working on **Mirrooor**, NLP applied to mental health
 
-- 🔭 we are currently working on **Koone**, computer vision for smart cities
+- 🔭 we are currently working on **Koone**, computer vision for smart cities and construction
 
 <h3 align="left">How to reach us: </h3>
 
