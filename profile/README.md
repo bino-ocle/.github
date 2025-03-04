@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, we are Binoocle</h1>
-<h3 align="center"> AI startup building solutions in NLP, computer vision, with blockchain topping 🍒</h3>
-
-- 🔭 we are currently working on **Mirrooor**, NLP applied to mental health
+<h3 align="center"> AI startup building solutions in NLP and computer vision </h3>
 
 - 🔭 we are currently working on **Koone**, computer vision for smart cities and construction
 
